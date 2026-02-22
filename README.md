@@ -75,10 +75,10 @@ File location:https://github.com/budhiramgouda45-prog/pizza-sales-analysis/blob/
 
 Some important DAX calculations used in the dashboard:
 
-Total Revenue = SUM(pizza_sales_data_clean[Total_Price])
-Total Orders = DISTINCTCOUNT(pizza_sales_data_clean[Order_ID])
-Total Quantity = SUM(pizza_sales_data_clean[Quantity])
-Average Order Value = 
+-Total Revenue = SUM(pizza_sales_data_clean[Total_Price])
+-Total Orders = DISTINCTCOUNT(pizza_sales_data_clean[Order_ID])
+-Total Quantity = SUM(pizza_sales_data_clean[Quantity])
+-Average Order Value = 
 DIVIDE([Total Revenue], [Total Orders])
 
 ## 📈 Power BI Dashboard
