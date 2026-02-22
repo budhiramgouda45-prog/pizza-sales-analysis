@@ -1,6 +1,6 @@
 #  🍕 Pizza Sales Analysis Dashboard
 
-This project presents an end-to-end **Pizza Sales Analysis** using **Power BI** and **SQL **
+This project presents an end-to-end **Pizza Sales Analysis** using Power BI** and **SQL**
 The objective is to analyze pizza sales data, identify business trends, and build an interactive dashboard that helps understand revenue, orders, and product performance.
 
 ## 📌 Project Overview
@@ -17,17 +17,17 @@ The dashboard highlights:
 This project demonstrates a real-world data analytics workflow:
 **Raw Data → Data Cleaning → SQL Analysis → Visualization**
 
-# Business Questions Solved
+## ❓ Business Questions Solved
 
-What is the total revenue generated?
-What is the average order value?
-What is the Total Pizzas Sold?
-What is the Total Orders?
-What is the average pizzas per order.
-Which pizza category contributes the most sales?
-Which pizza size is most popular?
-What are the top 5 and bottom 5 pizzas by revenue,quantity,total orders?
-What are the peak order days and months?
+- What is the total revenue generated?
+- What is the average order value?
+- What is the total pizzas sold?
+- What is the total number of orders?
+- What is the average pizzas per order?
+- Which pizza category contributes the most sales?
+- Which pizza size is most popular?
+- What are the top 5 and bottom 5 pizzas by revenue, quantity, and total orders?
+- What are the peak order days and months?
 
 ## 📂 Dataset
 
@@ -71,15 +71,15 @@ SQL queries were used to calculate KPIs and trends such as:
 
 File location:https://github.com/budhiramgouda45-prog/pizza-sales-analysis/blob/main/SQL-QUERIS.docx
 
-# Key DAX Measures
+## Key DAX Measures
 
-Some important DAX calculations used in the dashboard:
+ Some important DAX calculations used in the dashboard:
 
--Total Revenue = SUM(pizza_sales_data_clean[Total_Price])
--Total Orders = DISTINCTCOUNT(pizza_sales_data_clean[Order_ID])
--Total Quantity = SUM(pizza_sales_data_clean[Quantity])
--Average Order Value = 
-DIVIDE([Total Revenue], [Total Orders])
+ Total Revenue = SUM(pizza_sales_data_clean[Total_Price])
+ Total Orders = DISTINCTCOUNT(pizza_sales_data_clean[Order_ID])
+ Total Quantity = SUM(pizza_sales_data_clean[Quantity])
+ Average Order Value = 
+ DIVIDE([Total Revenue], [Total Orders])
 
 ## 📈 Power BI Dashboard
 
