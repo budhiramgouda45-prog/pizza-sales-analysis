@@ -46,7 +46,7 @@ Files included:
 - `pizza_sales_data_raw.csv` → Original dataset  
 - `pizza_sales_data_clean.csv` → Cleaned dataset used for analysis
 - Pizza_Sales_Analysis_Dashboard.pbix → Power BI dashboard file
-  SQL-QUERIES.docx → SQL queries used for analysis
+-  SQL-QUERIES.docx → SQL queries used for analysis
 
 ## 🧹 Data Cleaning Process
 
