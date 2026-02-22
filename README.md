@@ -69,7 +69,7 @@ SQL queries were used to calculate KPIs and trends such as:
 - Sales by Pizza Size
 - Top & Bottom Performing Pizzas
 
-File location:https://github.com/budhiramgouda45-prog/pizza-sales-analysis/blob/main/SQL-QUERIS.docx
+File location:[https://github.com/budhiramgouda45-prog/pizza-sales-analysis/blob/main/SQL-QUERIS.docx](https://github.com/budhiramgouda45-prog/pizza-sales-analysis/blob/main/PIZZA%20SALES%20SQL-QUERIES.docx)
 
 ## Key DAX Measures
 
@@ -96,10 +96,11 @@ To view the dashboard:
 2. Open using Power BI Desktop
 
 ## 📸 Dashboard Preview
-<img width="828" height="476" alt="Screenshot 2026-02-20 221912" src="https://github.com/user-attachments/assets/3ecdd98b-9677-4f17-abb8-3823605fe277" />
 
+<img width="852" height="482" alt="Screenshot 2026-02-22 124226" src="https://github.com/user-attachments/assets/d8ee1c94-2c92-4276-baf1-696009ee55dd" />
 
-<img width="819" height="465" alt="Screenshot 2026-02-20 221945" src="https://github.com/user-attachments/assets/64f6dd28-a553-4388-ba44-3a92303ce7bc" />
+<img width="850" height="481" alt="Screenshot 2026-02-22 124249" src="https://github.com/user-attachments/assets/e9d79274-4694-42f1-b4b1-9fa08f4511e8" />
+
 
 
 ## 🛠️ Tools & Technologies Used
