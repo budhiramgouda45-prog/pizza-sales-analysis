@@ -99,8 +99,8 @@ To view the dashboard:
 
 <img width="852" height="482" alt="Dashboard1" src="https://github.com/user-attachments/assets/34cf134c-d1ca-4a49-bc8c-cc487a53a3ae" />
 
-<img width="850" height="481" alt="Dashboard2" src="https://github.com/user-attachments/assets/fdc90f5f-5789-4a6a-9af0-3dd885c8f7a5" />
-
+[<img width="850" height="481" alt="Dashboard2" src="https://github.com/user-attachments/assets/fdc90f5f-5789-4a6a-9af0-3dd885c8f7a5" />
+](https://github.com/budhiramgouda45-prog/pizza-sales-analysis/blob/main/Dashboard2.png)
 
 
 
