@@ -97,9 +97,10 @@ To view the dashboard:
 
 ## 📸 Dashboard Preview
 
-<img width="852" height="482" alt="Screenshot 2026-02-22 124226" src="https://github.com/user-attachments/assets/d8ee1c94-2c92-4276-baf1-696009ee55dd" />
+<img width="852" height="482" alt="Dashboard1" src="https://github.com/user-attachments/assets/34cf134c-d1ca-4a49-bc8c-cc487a53a3ae" />
 
-<img width="850" height="481" alt="Screenshot 2026-02-22 124249" src="https://github.com/user-attachments/assets/e9d79274-4694-42f1-b4b1-9fa08f4511e8" />
+<img width="850" height="481" alt="Dashboard2" src="https://github.com/user-attachments/assets/fdc90f5f-5789-4a6a-9af0-3dd885c8f7a5" />
+
 
 
 
