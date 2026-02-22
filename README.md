@@ -17,7 +17,7 @@ The dashboard highlights:
 This project demonstrates a real-world data analytics workflow:
 **Raw Data → Data Cleaning → SQL Analysis → Visualization**
 
-❓ Business Questions Solved
+# Business Questions Solved
 
 What is the total revenue generated?
 What is the average order value?
