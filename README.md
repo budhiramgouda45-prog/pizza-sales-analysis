@@ -1,9 +1,9 @@
-#  🍕 Pizza Sales Analysis Dashboard
+#   Pizza Sales Analysis Dashboard
 
 This project presents an end-to-end **Pizza Sales Analysis** using Power BI** and **SQL**
 The objective is to analyze pizza sales data, identify business trends, and build an interactive dashboard that helps understand revenue, orders, and product performance.
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Pizza Sales Analysis** project focuses on transforming raw sales data into meaningful insights using data cleaning, SQL analysis, and visualization techniques.
 
@@ -17,7 +17,7 @@ The dashboard highlights:
 This project demonstrates a real-world data analytics workflow:
 **Raw Data → Data Cleaning → SQL Analysis → Visualization**
 
-## ❓ Business Questions Solved
+##  Business Questions Solved
 
 - What is the total revenue generated?
 - What is the average order value?
@@ -29,7 +29,7 @@ This project demonstrates a real-world data analytics workflow:
 - What are the top 5 and bottom 5 pizzas by revenue, quantity, and total orders?
 - What are the peak order days and months?
 
-## 📂 Dataset
+##  Dataset
 
 The dataset contains pizza order transaction details with columns such as:
 
@@ -48,7 +48,7 @@ Files included:
 - Pizza_Sales_Analysis_Dashboard.pbix → Power BI dashboard file
 -  SQL-QUERIES.docx → SQL queries used for analysis
 
-## 🧹 Data Cleaning Process
+##  Data Cleaning Process
 
 Data was cleaned using **Power Query** in Power BI:
 
@@ -59,7 +59,7 @@ Data was cleaned using **Power Query** in Power BI:
 - Created calculated columns
 
 
- ## 🔍 SQL Analysis
+ ##  SQL Analysis
 
 SQL queries were used to calculate KPIs and trends such as:
 
@@ -81,7 +81,7 @@ File location:[https://github.com/budhiramgouda45-prog/pizza-sales-analysis/blob
  Average Order Value = 
  DIVIDE([Total Revenue], [Total Orders])
 
-## 📈 Power BI Dashboard
+##  Power BI Dashboard
 
 The interactive dashboard was built using **Power BI Desktop** and includes:
 
@@ -95,7 +95,7 @@ To view the dashboard:
 1. Download the `.pbix` file  
 2. Open using Power BI Desktop
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 [<img width="852" height="482" alt="Dashboard1" src="https://github.com/user-attachments/assets/34cf134c-d1ca-4a49-bc8c-cc487a53a3ae" />](https://github.com/budhiramgouda45-prog/pizza-sales-analysis/blob/main/Dashboard1.png)
 
@@ -104,7 +104,7 @@ To view the dashboard:
 
 
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 | Tool         | Purpose |
 |------------- |---------|
@@ -115,19 +115,3 @@ To view the dashboard:
 | GitHub       | Project Hosting |
 
 
-## 👨‍💻 Author
-
-**Budhiram Gouda**
-
-Aspiring Data Analyst skilled in:
-- SQL  
-- Power BI  
-- Excel
-- Python
-- Data Cleaning & Visualization  
-
----
-
-## 📄 License
-
-This project is open-source and available for learning purposes.
